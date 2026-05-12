@@ -9,7 +9,7 @@ export function MainPage() {
             <div className="flex flex-col justify-center gap-3 " >
                 <h1 className="text-6xl font-bold" >Olá! Eu sou <span className="text-blue-600" >RAFAEL ROCHA.</span></h1>
                 <h2 className="text-xl" >Eu sou um Web Developer iniciante que busco desenvolver minhas habilidades no <span className="text-blue-600 font-semibold" >Mundo Dev.</span></h2>    
-            <button className="bg-blue-600 text-white text-xl font-semibold w-3/5 mx-auto py-3 px-4 rounded active:bg-blue-800" >
+            <button className="download-btn " >
                 Baixar CV
             </button>
             </div>
